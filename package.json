@@ -1,0 +1,10 @@
+{
+  "name": "mi-tutor-pensamiento-critico",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chatbot personal que reflexiona, cuestiona y orienta, con subida de PDF/Word y memoria persistente.",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.8.0"
+  }
+}
